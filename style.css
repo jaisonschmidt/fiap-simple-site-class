@@ -5,6 +5,7 @@ html, body {
 body {
     align-items: center;
     display: flex;
+    font-family: "Oswald", sans-serif;
     justify-content: center;
 }
 
